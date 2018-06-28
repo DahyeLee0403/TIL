@@ -5,8 +5,7 @@
   -튜토리얼(kaggle)을 단순히 보면서 공부 or 직접 번역 참여
   -IT 출판사(한빛..)의 리뷰어 모집 공고 -[]
   -스프린트에 참여하여 오픈소스에 기여
-  -정적블로그 운영
-  
+
   
 #2 Git/Git Hub 사용 가이드
   일일커밋 추천
@@ -36,4 +35,8 @@
    -Pull Request & Merge(Reject)
     Tracked Staged 즉 commit 가능 상태의 결과물을 원하는 repository에서 당겨가라고 요청하는 것을 "Pull Request"
     이것을 승인하면 Merge, 거절하면 Reject
+  
+
+  
+  
   
